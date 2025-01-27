@@ -1,2 +1,2 @@
 #!/bin/bash
-docker buildx build -t coingeko-server .
+docker buildx build -t pablodanielrey/coingeko-server .
