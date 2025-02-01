@@ -56,6 +56,8 @@ class RequestHandlerFactory:
         "solana",
         "hedera-hashgraph",
         "ethereum",
+        "bitcoin",
+        "bitcoin-2-0",
     ]
 
     def __init__(self):
